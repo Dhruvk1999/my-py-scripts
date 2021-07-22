@@ -1,4 +1,4 @@
-# My-py-scriptls
+# my-py-scripts
 For Youtube2 
 make a batch file 
 input name of the video you wish to download 
